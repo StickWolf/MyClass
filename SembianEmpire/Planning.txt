@@ -1,0 +1,4 @@
+﻿Jringolz  should run around in a circle between 4 rooms when the light is on, he can be stopped in the hallway if a gate is lowered
+from above ground. In the situation where the lights are on in the hallway and when Jringolz is there he will
+fall into favor with the player and follow the player around whever the player goes. The benefit of having Jringolz
+with you is that he will heal the player every few turns.
